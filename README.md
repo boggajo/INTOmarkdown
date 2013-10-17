@@ -6,7 +6,7 @@ Sigurbjörg Jóhannesdóttir.  Vann þetta ein, er fjarnemi og búsett í Sviss.
 
 Að setja upp Linux var ekkert nema harmleikur.  Ég er með fartölvu, HP EliteBook 2560p, 64 bita OS og Windows 7.  Ég setti upp VirtualBox skv. leiðbeiningum og Ubuntu VirtualBox Image.
 Þegar ég ræsti þetta upp þá kom fyrst villa um að USB 2.0 controller fyndist ekki þannig að ég fór í settings og tók hakið af Enable USB.  Reyndi svo aftur að ræsa upp og þá kom internal error, bara svartur skjár og ekkert gerðist meira.
-![ljósmynd frá sigurbjorgj12](UbuntuCaptur.JPG)
+  ![ljósmynd frá sigurbjorgj12](/~/UbuntuCaptur.JPG)
 
 
 ## 2. Uppsetning á vim && git
