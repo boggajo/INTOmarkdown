@@ -20,7 +20,7 @@ Að setja upp Linux var ekkert nema harmleikur.  Ég er með fartölvu, HP Elite
 
 Ég gerði reyndar fork tvisvar og fór í gegnum allt ferlið, prófaði bæði með Git Bash, og fylgdi þá leiðbeiningum sem voru í verkefninu, og svo líka með GitHub for Windows Powershell sem ég setti upp [héðan] [3].  Þetta var bara tilraunastarfsemi hjá mér, langaði að sjá hvernig hvorutveggja virkaði.  Báðar leiðirnar gengu vel.  
 
-[Forked repository] [4]
+[Forked repository] [4]  
 Þar sem ég gerði þetta tvisvar þá má sjá commit-listann minn [hérna] [5]  
 
   [3]: http://windows.github.com/ "GitHub"
