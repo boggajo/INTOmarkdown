@@ -41,4 +41,4 @@ Dæmi um Open Source forrit sem ég hef sett upp á vélinni minni:
 
 ## 5. Unnið með Git (2. hluti)
 
-Notaði Git Bash við þennan lið. Klónaði projectið yfir á mína vél, leyfði mér þann lúxus að editera md-skrána með NotePad (leiðist að nota Vim).
+Notaði Git Bash við þennan lið. Klónaði projectið yfir á mína vél, leyfði mér þann lúxus að editera md-skrána með NotePad (leiðist að nota Vim).  Tók smá tíma að finna út hvernig átti að setja inn myndina, að öðru leyti gekk þetta bara vel.
